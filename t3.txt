@@ -1,3 +1,0 @@
-new text 3 file
-
-modified t3
